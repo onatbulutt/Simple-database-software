@@ -20,8 +20,19 @@ This study is related to a simple database software for the some company. In thi
 6. Click on the "Open" button to load the project into IntelliJ IDEA.
 7. 
 # Usage
-To use this program, click on the RUN button located at the top right corner of the Main class inside the project, or press Shift+F10. 
+1. Right-click on the file named MyData in the unzipped file and select copy as path.
+2. Paste the selected path inside the quotation marks into the method called MyDataBase.readFromFile on the 5th line in the main class of the project you have opened.
+3. After pasting, arrange it so that there are only quotes on the right and left.
+4. click on the RUN button located at the top right corner of the Main class inside the project, or press Shift+F10.
+5. Observe the consol. 
 
+You can change the lines in the MyData folder. But you must comply with the format for it to work correctly. Two types of formats can be used.
+For adding customer: Name  Surname  Customer's ID
+For adding item: Costumer's ID  Item  Date  Price
+Additionally, new customers can be added in the main class. New items can be added to a newly added customer or to a customer in the MyData file. Examples are given in the main class.
 
 # Example
 The photo of the output generated in the console when the existing code is run is provided below.
+
+![database](https://github.com/onatbulutt/Simple-database-software/assets/155490196/54c56b44-e6d3-4597-928b-f156d6b28081)
+
