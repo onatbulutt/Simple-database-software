@@ -16,12 +16,12 @@ This study is related to a simple database software for the some company. In thi
 2. Extract the zip.
 3. Open IntelliJ IDEA.
 4. From the menu bar, select "File" > "Open".
-5. Navigate to your project directory and select DoubleLinkedList.
+5. Navigate to your project directory and select Simple_Database_Software.
 6. Click on the "Open" button to load the project into IntelliJ IDEA.
-
+7. 
 # Usage
 To use this program, click on the RUN button located at the top right corner of the Main class inside the project, or press Shift+F10. 
-There is sample code in the Main class of the project for creating and displaying a linked list on the console. Optionally, you can create a different linked list and display it on the console using methods.
+
 
 # Example
 The photo of the output generated in the console when the existing code is run is provided below.
