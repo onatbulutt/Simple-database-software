@@ -18,7 +18,7 @@ This study is related to a simple database software for the some company. In thi
 4. From the menu bar, select "File" > "Open".
 5. Navigate to your project directory and select Simple_Database_Software.
 6. Click on the "Open" button to load the project into IntelliJ IDEA.
-7. 
+
 # Usage
 1. Right-click on the file named MyData in the unzipped file and select copy as path.
 2. Paste the selected path inside the quotation marks into the method called MyDataBase.readFromFile on the 5th line in the main class of the project you have opened.
